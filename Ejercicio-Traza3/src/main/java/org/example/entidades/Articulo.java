@@ -4,9 +4,7 @@ package org.example.entidades;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
 
-import javax.persistence.Entity;
-import javax.persistence.Inheritance;
-import javax.persistence.InheritanceType;
+
 import java.util.HashSet;
 import java.util.Set;
 

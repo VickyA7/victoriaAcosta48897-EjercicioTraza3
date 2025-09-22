@@ -4,8 +4,6 @@ package org.example.entidades;
 import lombok.*;
 import lombok.experimental.SuperBuilder;
 
-import javax.persistence.Entity;
-import javax.persistence.ManyToOne;
 
 @NoArgsConstructor
 @AllArgsConstructor
